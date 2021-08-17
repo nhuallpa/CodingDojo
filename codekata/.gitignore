@@ -1,0 +1,11 @@
+/.gradle/
+/bin
+/.classpath
+/.settings
+/.project
+.idea/
+out/
+/api-referidos.iml
+/build/spock-reports
+/build/
+/logdebug.txt
